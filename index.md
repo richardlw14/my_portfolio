@@ -3,7 +3,7 @@
 ---
 ## Machine Learning
 <h3 style="color:#267CB9">SpaceX Machine Learning Prediction (Python)</h3>
-<a href="https://richardlw14.github.io/spacex-machine-learning.html"><img src="images/spacex_ml.jpg?raw=true"/></a>
+<a href="https://richardlw14.github.io/spacex_machine_learning.html"><img src="images/spacex_ml.jpg?raw=true"/></a>
 
 ---
 ## Software Engineering
