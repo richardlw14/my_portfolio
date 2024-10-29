@@ -1,13 +1,15 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Richard Wicaksono # your name (or website title) here
+logo: "IMG_0851.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  5+ years of experience in programming and data management. I coded in Python, Java, C++, HTML/CSS, SQL, PHP, and JavaScript. Conducted internships at PT. HK Metals Utama Tbk as a Data Analyst intern and Zi.Care as a Quality Assurance intern.
   <br><br>
-  Second description 
+  Currently a Data Conversion Engineer at Nelnet, Inc., creating and developing existing SQL scripts to improve work efficiency and automation. Outside programming, my hobbies include watching and playing soccer, basketball, and badminton.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
+
+  <a href="https://www.linkedin.com/in/richardlungw">View My LinkedIn Profile</a> 
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+google_analytics: G-MVC24K05JD # your Google Analytics tracking ID here
