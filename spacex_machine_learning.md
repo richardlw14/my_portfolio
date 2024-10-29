@@ -37,11 +37,11 @@ According to all the confusion matrices, all models produced the same result; th
 
 ### Hyperparameter Tuning
 
-<img src="images/gridsearch_before.jpg?raw=true" width="600" height="500"/>
+<img src="images/before_hyper.png?raw=true" width="600" height="500"/>
 
 _Before hyperparameter tuning, all GridSearch algorithms were 83.3% accurate._
 
-<img src="images/gridsearch_after.jpg?raw=true" width="600" height="500"/>
+<img src="images/after_hyper.png?raw=true" width="600" height="500"/>
 
 _After hyperparameter tuning, each GridSearch algorithm's accuracy improved by at least 1%. The Decision Tree Classifier model improved the most, having its accuracy enhanced by 4.2%._
 
