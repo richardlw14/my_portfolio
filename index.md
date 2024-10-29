@@ -20,7 +20,7 @@
 
 ---
 <h3 style="color:#267CB9">Data Dashboard (PHP, SQL, HTML/CSS, JavaScript)</h3>
-<a href="https://richardlw14.github.io/data-dashboard.html"><img src="Data dashboard ar bar chart.png?raw=true"/></a>
+<a href="https://richardlw14.github.io/data-dashboard.html"><img src="images/Data dashboard ar bar chart.png?raw=true"/></a>
 
 ---
 <h3 style="color:#267CB9">Data Visualization with Tableau</h3>
